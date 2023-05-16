@@ -1,0 +1,2 @@
+Wybrałam kolekcje ArrayList ponieważ jest łatwa w obsłudzę i może przechowywać obiekty
+w łatwy sposób, nie ma problemu z dodawaniem/usuwaniem do tablicy lub sotowaniem.
